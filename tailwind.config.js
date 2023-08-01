@@ -10,7 +10,7 @@ module.exports = {
       colors: {
         primary: '#14b8a6',
         secondary: '#0f172a',
-        slate: '#64748b',
+        slatee: '#64748b',
       },
       screens: {
         '2xl' : '1320px',
